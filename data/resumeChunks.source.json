@@ -1,0 +1,164 @@
+[
+  {
+    "id": "meta_summary",
+    "content": "Sahasra Kokkula is a Columbia University graduate student focusing on Machine Learning and NLP. Her work spans multimodal neural networks, intelligent cloud architectures, and AI for social good. She completed her cloud computing specialization during her B.Tech at SRM, not at Columbia. She bridges research depth with software engineering expertise."
+  },
+
+  {
+    "id": "edu_columbia_overview",
+    "content": "Sahasra is pursuing an M.S. in Computer Science at Columbia University, New York, focusing on Machine Learning and Artificial Intelligence. Her graduate path integrates neural network design, NLP, and distributed systems."
+  },
+  {
+    "id": "edu_columbia_research_assistant",
+    "content": "As a Graduate Research Assistant at Columbia’s Graphics Imaging and Light Measurement Lab, Sahasra works under Professor Corey Toler-Franklin on AI for Forensic Science and Cultural Heritage Preservation. She designs multimodal transformer models for historical reconstruction."
+  },
+  {
+    "id": "edu_columbia_project_tulsa",
+    "content": "Her project 'Using Neural Networks to Investigate the 1921 Tulsa Race Massacre' applies multimodal neural rendering, graph neural networks, and social-network reconstruction to recover disrupted historical records."
+  },
+  {
+    "id": "edu_columbia_ta",
+    "content": "Sahasra served as a Teaching Assistant for Columbia’s Cloud Computing course under Professor Donald Ferguson, mentoring students on distributed architectures, Docker, Kubernetes, and serverless deployment."
+  },
+  {
+    "id": "edu_columbia_skills",
+    "content": "Through coursework and lab research, she has mastered neural architectures, LLM fine-tuning, NLP pipelines, and advanced data-driven system design."
+  },
+
+  {
+    "id": "edu_srm_overview",
+    "content": "Sahasra completed her B.Tech in Computer Science & Engineering with a specialization in Cloud Computing at SRM Institute of Science and Technology (2021–August 2025). She graduated with a 3.94 GPA, University Rank 3, and a Medal for Academic Excellence."
+  },
+  {
+    "id": "edu_srm_scholarship",
+    "content": "She received merit-based scholarships for three consecutive years, recognizing her academic consistency and innovation in computing research."
+  },
+  {
+    "id": "edu_srm_coursework",
+    "content": "Her curriculum included Computer Organization & Architecture, Operating Systems, Object-Oriented Design & Programming, Data Structures & Algorithms, Design and Analysis of Algorithms, and specialized courses in Cloud Computing."
+  },
+  {
+    "id": "edu_srm_focus",
+    "content": "At SRM, she combined theoretical computer-science depth with practical implementation of distributed architectures and microservice design patterns."
+  },
+
+  {
+    "id": "exp_mitacs_overview",
+    "content": "In 2024, Sahasra was selected as a Mitacs Globalink Research Intern at Toronto Metropolitan University under Professor Marin Litoiu, a top 2% global researcher. Her project involved digital-twin modeling and blockchain consensus for intelligent transportation systems."
+  },
+  {
+    "id": "exp_mitacs_technical",
+    "content": "She implemented graph neural-network architectures such as GCN and GAT to predict microservice latency in distributed environments, achieving 95% accuracy."
+  },
+  {
+    "id": "exp_mitacs_devops",
+    "content": "Her solution was deployed on AWS EKS and integrated CI/CD pipelines, Prometheus and Grafana observability, and Docker-based microservices."
+  },
+  {
+    "id": "exp_mitacs_outcomes",
+    "content": "The research contributed to understanding secure consensus in distributed systems and the efficiency of digital-twin architectures for smart cities."
+  },
+
+  {
+    "id": "exp_columbia_research",
+    "content": "At Columbia, Sahasra’s research explores multimodal AI integrating spatial, textual, and spectral data for historical analysis. She develops neural rendering pipelines and explainable AI approaches for forensic datasets."
+  },
+  {
+    "id": "exp_columbia_methods",
+    "content": "Her work combines GNN-based temporal modeling, transformer fusion, and multispectral data learning for robust heritage reconstruction."
+  },
+
+  
+
+  {
+    "id": "proj_mindsync",
+    "content": "MindSync is a mental-health application that delivers AI-driven content recommendations using a sentiment-based neural collaborative filtering system. Built with React, Node.js, and PostgreSQL, it emphasizes personalized emotional support."
+  },
+  {
+    "id": "proj_palisade",
+    "content": "Palisade is an LLM guardrail framework that combines BERT embeddings with rule-based heuristics to detect prompt injection and enhance AI safety. It demonstrates Sahasra’s expertise in secure AI deployment."
+  },
+  {
+    "id": "proj_json_crud",
+    "content": "JSON-CRUD Framework is a cross-framework solution enabling dynamic schema-based CRUD operations across React, Angular, Vue, and Node backends. It simplifies data management for flexible front-end applications."
+  },
+  {
+    "id": "proj_storage_rental",
+    "content": "Developed a cloud-based storage rental simulation integrating MySQL, Docker, and REST APIs. The system models real-world SaaS data flows and microservice orchestration."
+  },
+  {
+    "id": "proj_other",
+    "content": "She has also worked on Face Detection systems and a Sentiment Analyzer demonstrating practical ML applications from edge AI to NLP."
+  },
+
+  {
+    "id": "pub_tinyml",
+    "content": "Lead author of 'Tiny-ML Model for Pugilism Sport Gesture Classification and Its Potential Over Computer Vision.' The paper introduced lightweight edge AI pipelines for gesture recognition on microcontrollers."
+  },
+  {
+    "id": "pub_digital_twin",
+    "content": "Co-author of 'Digital Twin Consensus for Blockchain-Enabled Intelligent Transportation Systems in Smart Cities,' published by Wiley-Scrivener (2024). It examined secure consensus mechanisms and blockchain integration."
+  },
+  {
+    "id": "pub_sentiment_recommender",
+    "content": "Ongoing paper titled 'A Sentiment-Based Neural Collaborative Filtering Recommender System for Mental Health Content Delivery,' combining NLP and collaborative filtering for personalized mental health support."
+  },
+
+  {
+    "id": "skills_languages",
+    "content": "Programming languages: Python, C++, TypeScript, JavaScript, and SQL. Proficient in writing clean, modular code and data-centric pipelines."
+  },
+  {
+    "id": "skills_frameworks",
+    "content": "Frameworks and libraries: React.js, Node.js, Express, TensorFlow, PyTorch, Scikit-learn, and OpenCV. Experienced with NLP tooling and transformer models."
+  },
+  {
+    "id": "skills_cloud",
+    "content": "Cloud and DevOps: AWS, Docker, Kubernetes, Terraform, CI/CD pipelines, and Prometheus monitoring. Adept at scalable deployment of AI services."
+  },
+  {
+    "id": "skills_ai_domains",
+    "content": "Machine Learning domains: TinyML, Graph Neural Networks (GNNs), Large Language Models (LLMs), and Natural Language Processing (NLP). Interested in multimodal fusion and explainable AI."
+  },
+
+  {
+    "id": "leadership_cloudnova",
+    "content": "Served as Research Head of SRM Cloud Nova Club, mentoring three research teams in cloud and machine-learning projects. Guided students from ideation to peer-reviewed publication."
+  },
+  {
+    "id": "leadership_mentorship",
+    "content": "Mentored over 40 students in microservices design, multi-cloud DevOps, and secure AI engineering (AWS, Azure, GCP). Emphasized research ethics and scalable systems thinking."
+  },
+  {
+    "id": "leadership_impact",
+    "content": "Her leadership fostered a research-driven culture within the club, leading to multiple conference papers and industry collaborations."
+  },
+
+  {
+    "id": "honors_awards",
+    "content": "Recognized with University Medal for Academic Excellence and multiple merit-based scholarships for outstanding performance in computer science and cloud research."
+  },
+
+  {
+    "id": "hackathons_outreach",
+    "content": "Participated in AI hackathons and poster presentations on machine-learning applications for social good. Advocates for AI education and open research collaboration."
+  },
+
+  {
+    "id": "link_research_projects",
+    "content": "Her academic research at Columbia directly influences projects like Palisade and MindSync, bridging multimodal AI and cloud computing to build scalable intelligent systems."
+  },
+  {
+    "id": "link_cloud_ai",
+    "content": "Across academia and industry, Sahasra merges cloud infrastructure knowledge with deep-learning innovation, demonstrating expertise in end-to-end AI system engineering."
+  },
+
+  {
+    "id": "personal_values",
+    "content": "Sahasra believes in leveraging AI for impactful applications that preserve culture, enhance mental health, and strengthen infrastructure reliability."
+  },
+  {
+    "id": "personal_future",
+    "content": "Her future goals include advancing trustworthy AI, scalable multimodal learning systems, and cross-disciplinary applications of cloud-native AI for societal benefit."
+  }
+]

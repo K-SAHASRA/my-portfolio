@@ -27,11 +27,14 @@ export default function Navbar() {
       <Link href="#about" className="hover:text-primary transition-colors">
         About
       </Link>
+      <Link href="#journey" className="hover:text-primary transition-colors">
+        Journey
+      </Link>
       <Link href="#projects" className="hover:text-primary transition-colors">
         Projects
       </Link>
-      <Link href="#blog" className="hover:text-primary transition-colors">
-        Blog
+      <Link href="#ask" className="hover:text-primary transition-colors">
+        Ask Me Anything
       </Link>
       <Link href="#contact" className="hover:text-primary transition-colors">
         Contact

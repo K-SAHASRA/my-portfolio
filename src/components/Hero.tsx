@@ -4,7 +4,7 @@ export default function Hero() {
   return (
     <section className="flex flex-col items-center justify-center text-center py-32 space-y-6">
       {/* Name */}
-      <h1 className="text-5xl md:text-7xl font-bold tracking-tight text-gray-900">
+      <h1 className="text-5xl md:text-7xl font-bold tracking-tight text-foreground">
         Sahasra Kokkula
       </h1>
 

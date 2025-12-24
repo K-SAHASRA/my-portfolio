@@ -126,9 +126,10 @@
 }
 
 
-html, body {
-  font-family: 'Inter', system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial;
-  color: #000; /* black text on white background */
-  background: #fff;
+html,
+body {
+  font-family: "Inter", system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial;
+  color: var(--foreground);
+  background: var(--background);
+  scroll-behavior: smooth;
 }
-

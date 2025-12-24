@@ -18,6 +18,9 @@ import Navbar from "../components/Navbar";
 import Hero from "../components/Hero";
 import About from "../components/About";
 import Projects from "../components/Projects";
+import Timeline from "../components/Timeline";
+import AskMyResume from "../components/AskMyResume";
+import Contact from "../components/Contact";
 
 
 export default function Home() {
@@ -27,8 +30,10 @@ export default function Home() {
       <main>
         <Hero />
         <About />
+        <Timeline />
         <Projects />
-        {/* Projects, Blog, Contact will follow */}
+        <AskMyResume />
+        <Contact />
       </main>
     </>
   );
